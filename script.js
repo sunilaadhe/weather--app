@@ -14,4 +14,4 @@ let data = await response.json();
 }
 
 
-checkweather(mumbai)
+checkweather(jalna)
